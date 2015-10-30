@@ -1,2 +1,2 @@
 # parthon
-Persian lang coding under python
+Persian lang programming under python
